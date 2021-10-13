@@ -3,11 +3,11 @@
 
 Hey There! I'm currently running at full capacity providing for my clients.
 <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-<p>Unfortunately, I'm not available to take on new projects.<br>
+Unfortunately, I'm not available to take on new projects.<br>
 <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 
-For Benoit, <!-- laglaglag -->benoit {@} onpointtech.ca<br>
+For Benoit, <!-- laglaglag -->benoit {@} onpointtech.ca
 <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-<p>For Billing, <!-- laglaglag -->billing {@} onpointtech.ca</p>
+For Billing, <!-- laglaglag -->billing {@} onpointtech.ca
 
-<p>78O.328 - 39:three:three</p>
+78O.328 - 39:three:three<br>
