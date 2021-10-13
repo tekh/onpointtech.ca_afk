@@ -1,0 +1,22 @@
+&nbsp;________&nbsp;&nbsp;________&nbsp;&nbsp;&nbsp;________&nbsp;&nbsp;________&nbsp;&nbsp;___&nbsp;&nbsp;________&nbsp;&nbsp;&nbsp;_________
+|\&nbsp;&nbsp;&nbsp;__&nbsp;&nbsp;\|\&nbsp;&nbsp;&nbsp;___&nbsp;&nbsp;\|\&nbsp;&nbsp;&nbsp;__&nbsp;&nbsp;\|\&nbsp;&nbsp;&nbsp;__&nbsp;&nbsp;\|\&nbsp;&nbsp;\|\&nbsp;&nbsp;&nbsp;___&nbsp;&nbsp;\|\___&nbsp;&nbsp;&nbsp;___\
+\&nbsp;\&nbsp;&nbsp;\|\&nbsp;&nbsp;\&nbsp;\&nbsp;&nbsp;\\&nbsp;\&nbsp;&nbsp;\&nbsp;\&nbsp;&nbsp;\|\&nbsp;&nbsp;\&nbsp;\&nbsp;&nbsp;\|\&nbsp;&nbsp;\&nbsp;\&nbsp;&nbsp;\&nbsp;\&nbsp;&nbsp;\\&nbsp;\&nbsp;&nbsp;\|___&nbsp;\&nbsp;&nbsp;\_|
+&nbsp;\&nbsp;\&nbsp;&nbsp;\\\&nbsp;&nbsp;\&nbsp;\&nbsp;&nbsp;\\&nbsp;\&nbsp;&nbsp;\&nbsp;\&nbsp;&nbsp;&nbsp;____\&nbsp;\&nbsp;&nbsp;\\\&nbsp;&nbsp;\&nbsp;\&nbsp;&nbsp;\&nbsp;\&nbsp;&nbsp;\\&nbsp;\&nbsp;&nbsp;\&nbsp;&nbsp;&nbsp;\&nbsp;\&nbsp;&nbsp;\
+&nbsp;&nbsp;\&nbsp;\&nbsp;&nbsp;\\\&nbsp;&nbsp;\&nbsp;\&nbsp;&nbsp;\\&nbsp;\&nbsp;&nbsp;\&nbsp;\&nbsp;&nbsp;\___|\&nbsp;\&nbsp;&nbsp;\\\&nbsp;&nbsp;\&nbsp;\&nbsp;&nbsp;\&nbsp;\&nbsp;&nbsp;\\&nbsp;\&nbsp;&nbsp;\&nbsp;&nbsp;&nbsp;\&nbsp;\&nbsp;&nbsp;\
+&nbsp;&nbsp;&nbsp;\&nbsp;\_______\&nbsp;\__\\&nbsp;\__\&nbsp;\__\&nbsp;&nbsp;&nbsp;&nbsp;\&nbsp;\_______\&nbsp;\__\&nbsp;\__\\&nbsp;\__\&nbsp;&nbsp;&nbsp;\&nbsp;\__\
+&nbsp;&nbsp;&nbsp;&nbsp;\|_______|\|__|&nbsp;\|__|\|__|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\|_______|\|__|\|__|&nbsp;\|__|&nbsp;&nbsp;&nbsp;&nbsp;\|__|
+
+
+<span id="a">benoit@onpoint</span>:<span id="b">~</span><span id="c">$</span> cd www/<!-- laglaglaglaglaglag -->OnPointTech.ca
+<span id="a">benoit@onpoint</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->website<br/>
+
+Hey There! I'm currently running at full capacity providing for my clients.
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p>Unfortunately, I'm not available to take on new projects.<br>
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+
+For Benoit, <!-- laglaglag -->benoit {@} onpointtech.ca<br>
+<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p>For Billing, <!-- laglaglag -->billing {@} onpointtech.ca</p>
+
+<p>78O.328 - 39:three:three</p>
